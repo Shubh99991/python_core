@@ -1,4 +1,4 @@
-#for loop 10 questions
+#for loop 10 questions and 8 while loop
 #element retriving using loop
 #string
 """
